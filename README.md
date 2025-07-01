@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![헤더](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=테스트&fontSize=50&textBg=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaqudwn1)](https://github.com/rlaqudwn1/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaqudwn1)](https://solved.ac/rlaqudwn1)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mare2008)](https://solved.ac/mare2008)
 <!--
 **rlaqudwn1/rlaqudwn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
